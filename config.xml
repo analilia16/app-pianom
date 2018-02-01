@@ -19,7 +19,7 @@
 	<preference name="target-device" value="Universal" />
 	<preference name="fullscreen" value="True" />
 	<preference name="android-installLocation" value="auto" />
-		<plugin name="cordova-plugin-media" version="~5.0.2"/>
+		<plugin name="cordova-plugin-media" spec="~5.0.2"/>
 		<!-- PARA QUE EL DISPOSITIVO SIEMPRE ESTE DE FORMA HORIZONTAL-->		
 		<preference name="orientation" value="landscape" />
 		<preference name="premissions" value="INTERNET" />
