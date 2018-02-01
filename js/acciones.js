@@ -1,6 +1,6 @@
 //JavaScript
 var audio;	
-$(document).ready(function(e){	
+$(document).ready(function(){	
 "use strict";
 	//$('#principal').height($('#page').height());// asigna la altura de page y page tiene la funcion para calcular el alto
 	document.addEventListener("deviceready",function(){
